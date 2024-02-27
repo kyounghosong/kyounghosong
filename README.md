@@ -3,7 +3,6 @@
 #### About me
 
 #### Contact
-<a href="https://www.google.co.kr/" target="_blank">GOOGLE</a>
 [kh950324@naver.com](kh950324@naver.com)
 
 #### Skills
@@ -21,6 +20,9 @@
 
 #### Blog
 [험난한 개발자의 길](https://blog.naver.com/kh950324)
+
+<a href="https://blog.naver.com/kh950324" target="_blank">험난한 개발자의 길</a>
+
 
 <!--
 **kyounghosong/kyounghosong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
