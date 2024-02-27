@@ -1,13 +1,15 @@
 ### Hi there 👋
 
-## About me
+### About me
 
-## Contact
+### Contact
 
-## Skills
+### Skills
+https://img.shields.io/badge/spring-green?style=flat
 
-## Blog
-https://blog.naver.com/kh950324
+
+### Blog
+[험난한 개발자의 길](https://blog.naver.com/kh950324)
 
 <!--
 **kyounghosong/kyounghosong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
