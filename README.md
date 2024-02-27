@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+## About me
+
+## Contact
+
+## Skills
+
+## Blog
+https://blog.naver.com/kh950324
+
 <!--
 **kyounghosong/kyounghosong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
