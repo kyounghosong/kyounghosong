@@ -5,7 +5,7 @@
 ### Contact
 
 ### Skills
-https://img.shields.io/badge/spring-green?style=flat
+<img alt="Static Badge" src="https://img.shields.io/badge/spring-green?style=flat">
 
 
 ### Blog
