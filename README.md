@@ -23,6 +23,9 @@
 
 <a href="https://blog.naver.com/kh950324" target="_blank">험난한 개발자의 길</a>
 
+a {
+text-decoration-line: none;
+}
 
 <!--
 **kyounghosong/kyounghosong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
