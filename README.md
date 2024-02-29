@@ -1,11 +1,10 @@
 
-#### About me
 <div align="center">
+#### About me
 "Hello, I'm kyoungho🖐️"<br/>
 안녕하세요, 저는 신입 백엔드 개발자 송경호입니다! <br/>
 작년 8월에 국비교육을 시작해 System.out.println(”Hello World”)를 출력하면서 개발자로서의 발자국을 내딛였습니다.<br/>
 지금은 아는 것이 많이 않아 부족한 것이 많겠지만, 그만큼 배울것이 많고, 그만큼 성장할 수 있는 길이 많아 감사하게 생각합니다.
-</div>
 
 #### 📮 Contact
 [kh950324@naver.com](kh950324@naver.com)
@@ -26,18 +25,4 @@
 
 #### ⭐️ Notion
 <a href="https://difficult-sandwich-f97.notion.site/d62666b5a09141a8b2776cda6729466e?pvs=4" target="_blank">Notion</a>
-
-<!--
-**kyounghosong/kyounghosong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
