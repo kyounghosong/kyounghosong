@@ -9,13 +9,14 @@
 [kh950324@naver.com](kh950324@naver.com)
 
 #### 🔑 Skills
+Backend
 <img alt="Static Badge" src="https://img.shields.io/badge/java-%23000471?style=flat"><img alt="Static Badge" src="https://img.shields.io/badge/spring-green?style=flat"><img alt="Static Badge" src="https://img.shields.io/badge/springboot-%2343a700?style=flat">
 <img alt="Static Badge" src="https://img.shields.io/badge/Mybatis-%2300b1e2?style=flat">
-
+Service
 <img alt="Static Badge" src="https://img.shields.io/badge/Apachtomcat-%23f0ff6c?style=flat"><img alt="Static Badge" src="https://img.shields.io/badge/Amazon%20AWS-%23ae74ff?style=flat">
-
+Database
 <img alt="Static Badge" src="https://img.shields.io/badge/oracle-%23d00000?style=flat">
-
+Frontend
 <img alt="Static Badge" src="https://img.shields.io/badge/HTML5-%23ff8c00e1?style=flat"><img alt="Static Badge" src="https://img.shields.io/badge/css-%23fff200?style=flat"><img alt="Static Badge" src="https://img.shields.io/badge/React-%233785f1?style=flat"><img alt="Static Badge" src="https://img.shields.io/badge/Javascript-%234fca97?style=flat"><img alt="Static Badge" src="https://img.shields.io/badge/JSP-%230048e2?style=flat"><img alt="Static Badge" src="https://img.shields.io/badge/JQuary-%23664394?style=flat"><img alt="Static Badge" src="https://img.shields.io/badge/AJax-%237dc287?style=flat">
 
 
