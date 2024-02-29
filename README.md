@@ -14,11 +14,9 @@
 
 <img alt="Static Badge" src="https://img.shields.io/badge/HTML5-%23ff8c00e1?style=flat"><img alt="Static Badge" src="https://img.shields.io/badge/css-%23fff200?style=flat"><img alt="Static Badge" src="https://img.shields.io/badge/React-%233785f1?style=flat"><img alt="Static Badge" src="https://img.shields.io/badge/Javascript-%234fca97?style=flat"><img alt="Static Badge" src="https://img.shields.io/badge/JSP-%230048e2?style=flat"><img alt="Static Badge" src="https://img.shields.io/badge/JQuary-%23664394?style=flat"><img alt="Static Badge" src="https://img.shields.io/badge/AJax-%237dc287?style=flat">
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kyounghosong)](https://github.com/anuraghazra/github-readme-stats)
-
 
 #### Blog
-<a href="https://blog.naver.com/kh950324" target="_blank">험난한 개발자의 길</a>
+<a href="https://blog.naver.com/kh950324" style='text-decoration-line: none;' target="_blank">험난한 개발자의 길</a>
 
 #### Notion
 <a href="https://difficult-sandwich-f97.notion.site/d62666b5a09141a8b2776cda6729466e?pvs=4" target="_blank">Notion</a>
