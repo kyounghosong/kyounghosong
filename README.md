@@ -1,6 +1,5 @@
 
 <div align="center">
-#### About me
 "Hello, I'm kyoungho🖐️"<br/>
 안녕하세요, 저는 신입 백엔드 개발자 송경호입니다! <br/>
 작년 8월에 국비교육을 시작해 System.out.println(”Hello World”)를 출력하면서 개발자로서의 발자국을 내딛였습니다.<br/>
