@@ -16,7 +16,7 @@
 
 
 #### Blog
-<a href="https://blog.naver.com/kh950324" style='text-decoration-line: none;' target="_blank">험난한 개발자의 길</a>
+<a href="https://blog.naver.com/kh950324" target="_blank">험난한 개발자의 길</a>
 
 #### Notion
 <a href="https://difficult-sandwich-f97.notion.site/d62666b5a09141a8b2776cda6729466e?pvs=4" target="_blank">Notion</a>
