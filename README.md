@@ -1,4 +1,3 @@
-### Hi there 👋
 
 #### About me
 
@@ -15,7 +14,7 @@
 
 <img alt="Static Badge" src="https://img.shields.io/badge/HTML5-%23ff8c00e1?style=flat"><img alt="Static Badge" src="https://img.shields.io/badge/css-%23fff200?style=flat"><img alt="Static Badge" src="https://img.shields.io/badge/React-%233785f1?style=flat"><img alt="Static Badge" src="https://img.shields.io/badge/Javascript-%234fca97?style=flat"><img alt="Static Badge" src="https://img.shields.io/badge/JSP-%230048e2?style=flat"><img alt="Static Badge" src="https://img.shields.io/badge/JQuary-%23664394?style=flat"><img alt="Static Badge" src="https://img.shields.io/badge/AJax-%237dc287?style=flat">
 
-
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kyounghosong)](https://github.com/anuraghazra/github-readme-stats)
 
 
 #### Blog
